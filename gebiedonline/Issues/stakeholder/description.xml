@@ -21,7 +21,7 @@
 
 	<Attributes>
 
-		<Attribute id="loginCode">
+		<Attribute id="logincode">
 			<Name>
 				<en>Login code</en>
 				<nl>Logincode</nl>

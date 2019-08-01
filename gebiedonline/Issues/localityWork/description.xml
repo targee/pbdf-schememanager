@@ -20,7 +20,7 @@
 	</IssueURL>
 
 	<Attributes>
-		<Attribute id="zipCode">
+		<Attribute id="zipcode">
 			<Name>
 				<en>Zip code in 4 digits</en>
 				<nl>Postcode in 4 cijfers</nl>
