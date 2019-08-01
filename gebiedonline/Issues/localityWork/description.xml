@@ -9,7 +9,7 @@
 	</ShortName>
 	<SchemeManager>pbdf</SchemeManager>
 	<IssuerID>gebiedonline</IssuerID>
-	<CredentialID>workingArea</CredentialID>
+	<CredentialID>localityWork</CredentialID>
 	<Description>
 		<en>The area where I work</en>
 		<nl>Het gebied waar ik werk</nl>

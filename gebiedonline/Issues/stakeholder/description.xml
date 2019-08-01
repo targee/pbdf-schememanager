@@ -9,7 +9,7 @@
 	</ShortName>
 	<SchemeManager>pbdf</SchemeManager>
 	<IssuerID>gebiedonline</IssuerID>
-	<CredentialID>userIdentification</CredentialID>
+	<CredentialID>stakeholder</CredentialID>
 	<Description>
 		<en>My identification for Gebiedonline community websites</en>
 		<nl>Mijn identificatie voor Gebiedonline community websites</nl>
