@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Issuer version="4">
+	<ID>surf</ID>
+	<ShortName>
+		<en>SURF</en>
+		<nl>SURF</nl>
+	</ShortName>
+	<Name>
+		<en>SURF</en>
+		<nl>SURF</nl>
+	</Name>
+	<SchemeManager>pbdf</SchemeManager>
+	<ContactAddress>https://surfnet.nl</ContactAddress>
+	<ContactEMail>info@surfconext.nl</ContactEMail>
+	<baseURL/>
+</Issuer>
